@@ -301,6 +301,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             ],
             'CI' => [
                 'format' => "%givenName %familyName\n%organization\n%sortingCode %addressLine1\n%addressLine2\n%addressLine3 %locality %sortingCode",
+                'subdivision_depth' => 1,
             ],
             'CL' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%addressLine3\n%postalCode %locality\n%administrativeArea",

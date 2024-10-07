@@ -1,0 +1,61 @@
+{
+	"country_code": "CI",
+	"subdivisions": {
+		"Abidjan": {
+			"iso_code": "CI-AB",
+			"has_children": true
+		},
+		"Bas-Sassandra": {
+			"iso_code": "CI-BS",
+			"has_children": true
+		},
+		"Comoé": {
+			"iso_code": "CI-CM",
+			"has_children": true
+		},
+		"Denguélé": {
+			"iso_code": "CI-DN",
+			"has_children": true
+		},
+		"Gôh-Djiboua": {
+			"iso_code": "CI-GD",
+			"has_children": true
+		},
+		"Lacs": {
+			"iso_code": "CI-LC",
+			"has_children": true
+		},
+		"Lagunes": {
+			"iso_code": "CI-LG",
+			"has_children": true
+		},
+		"Montagnes": {
+			"iso_code": "CI-MG",
+			"has_children": true
+		},
+		"Sassandra-Marahoué": {
+			"iso_code": "CI-SM",
+			"has_children": true
+		},
+		"Savanes": {
+			"iso_code": "CI-SV",
+			"has_children": true
+		},
+		"Vallée du Bandama": {
+			"iso_code": "CI-VB",
+			"has_children": true
+		},
+		"Woroba": {
+			"iso_code": "CI-WR",
+			"has_children": true
+		},
+		"Yamoussoukro": {
+			"iso_code": "CI-YM",
+			"has_children": true
+		},
+		"Zanzan": {
+			"iso_code": "CI-ZZ",
+			"has_children": true
+		}
+	}
+}
